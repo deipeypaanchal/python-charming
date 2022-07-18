@@ -6,8 +6,6 @@ It is taken care that side is not smaller than 3 or greater than 12.
 Also, taken care that the length is greater than 50.
 while and for loop is used in this program.
 turtle.forward(length) and turtle.right(turns) are also used to get the correct.
-
-In addition to these question 3 codes, we have added turtle.write('name').
 It is displaying the name of the shape as per described on Wikipedia.
 '''
 
